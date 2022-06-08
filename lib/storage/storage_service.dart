@@ -23,7 +23,7 @@ class StorageService {
       //     return db.execute(
       //       // TODO: figure out sustainable way to read sql files to init db
       //     )
-      }
+      // }
     );
   }
 
